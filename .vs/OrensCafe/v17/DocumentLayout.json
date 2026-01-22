@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nana\\OrensCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|C:\\Users\\Nana\\OrensCafe\\assets\\scripts\\backgroundaudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundaudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|c:\\users\\nana\\orenscafe\\assets\\scripts\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|C:\\Users\\Nana\\OrensCafe\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|C:\\Users\\Nana\\OrensCafe\\assets\\scripts\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|C:\\Users\\Nana\\OrensCafe\\assets\\scripts\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|C:\\Users\\Nana\\OrensCafe\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|C:\\Users\\Nana\\OrensCafe\\assets\\scripts\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|C:\\Users\\Nana\\OrensCafe\\assets\\scripts\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|C:\\Users\\Nana\\OrensCafe\\assets\\scripts\\customerqueuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customerqueuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|C:\\Users\\Nana\\OrensCafe\\assets\\scripts\\leveltimermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\leveltimermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|C:\\Users\\Nana\\OrensCafe\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|C:\\Users\\Nana\\OrensCafe\\assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|C:\\Users\\Nana\\OrensCafe\\assets\\scripts\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EE215E-DABA-4964-38E7-5E5486FD2093}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\Money.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Money.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\Money.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Money.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:32:41.211Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chair.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\Chair.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chair.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\Chair.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:00:44.15Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:19:33.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsManager.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\SettingsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:54:01.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackgroundAudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\BackgroundAudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundAudioManager.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\BackgroundAudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundAudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:40:34.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:26:30.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TutorialManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\TutorialManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TutorialManager.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\TutorialManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TutorialManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:17:26.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:41:08.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LevelTimerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\LevelTimerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelTimerManager.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\LevelTimerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelTimerManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:25:51.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerQueueManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\CustomerQueueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomerQueueManager.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\CustomerQueueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CustomerQueueManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:32:35.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\Table.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Table.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\Table.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Table.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:11:40.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEBAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:39:27.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\Customer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Customer.cs",
+              "ToolTip": "C:\\Users\\Nana\\OrensCafe\\Assets\\Scripts\\Customer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Customer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:32:24.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
